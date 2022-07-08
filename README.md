@@ -27,4 +27,3 @@ To get detailed process in every epoch, run tensorboard.
  ```
  
  The path for the trained model is ```/home/tintin/predrnn_model/predrnn_pp_radar_return/best_model_state_mse_radar.bin ```
-# predrnn_pp_radar_return
